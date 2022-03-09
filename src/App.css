@@ -10,6 +10,18 @@ html {
 
 .app {
     display: flex;
-    flex-direction: row;
+    gap: 20px;
+}
+
+.app-container {
+    width: 80%;
     height: 100%;
+}
+
+.status-container {
+    display: flex;
+    justify-content: space-around;
+    gap: 20px;
+    margin-top: 20px;
+    padding-top: 20px;
 }
