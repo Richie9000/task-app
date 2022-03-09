@@ -1,11 +1,12 @@
 .sidebar {
-    position: absolute;
+   
     width: 232px;
     height: 836px;
     left: 32px;
     top: 32px;
     background: #2C2F33;
     border-radius: 24px;
+
 }
 
 .container {
