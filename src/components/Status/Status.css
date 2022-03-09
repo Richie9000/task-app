@@ -1,0 +1,13 @@
+.status-card {
+ display: flex;
+ background: #2C2F33;
+ border-radius: 8px;
+ width: 348px;
+ height: 208px;   
+ justify-content: center; 
+}
+
+.title-card {
+ font-family: 'Source Sans Pro', sans-serif;
+ color: whitesmoke;
+}

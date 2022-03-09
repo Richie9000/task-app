@@ -1,0 +1,50 @@
+form {
+    width: 90%;
+    margin-top: 1vh;
+    margin-left: 2vw;
+}
+
+.input {
+    background: url("./Search-Icon.png") no-repeat scroll 10px;
+    padding-left:40px;
+    width: 100%;
+    height: 30px;
+    border-radius: 16px;
+    border: none;
+    color: whitesmoke;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.container-input {
+    display: flex;
+    padding-left:40px;
+    width: 100%;
+    height: 40px;
+    background-color: #393D41;    
+    border-radius: 26px;
+    border: none;
+    padding-top: 10px;
+}
+
+.bell {
+    margin-top: 5px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    height: 20px;
+}
+
+.avatar {
+    margin-bottom: 5px;
+    padding-bottom: 3px;
+    padding-right: 15px;
+}
+
+.Switcher {
+    margin-top: 4vh;
+    margin-left: 2vw;
+}
+
+.button-header {
+  height: 20px;
+  float: right;
+}
